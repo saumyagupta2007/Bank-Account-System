@@ -63,7 +63,7 @@ BankAccountSystem.java
 ## 🧾 Sample Output
 
 ```
-Enter your name: Jiya
+Enter your name: Saumya
 Enter account number: 12345678
 Enter initial balance: 5000
 
